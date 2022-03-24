@@ -32,9 +32,9 @@ Introduction to Arithmetic Geometry
 {{< tdopen >}}
 
 
-Ellenberg, Jordan S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Arithmetic Geometry." (PDF)](http://press.princeton.edu/chapters/gowers/gowers_IV_5.pdf)
+Ellenberg, Jordan S. ["Arithmetic Geometry." (PDF)](http://press.princeton.edu/chapters/gowers/gowers_IV_5.pdf)
 
-Poonen, Bjorn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Computing Rational Points on Curves" (PDF)](http://math.mit.edu/~poonen/papers/millennial.pdf)
+Poonen, Bjorn. ["Computing Rational Points on Curves" (PDF)](http://math.mit.edu/~poonen/papers/millennial.pdf)
 
 
 {{< tdclose >}}
@@ -192,7 +192,7 @@ Knapp, A. [_Basic Algebra_](http://dx.doi.org/10.1007/978-0-8176-4529-8). Birkh�
 
 ———. _[Advanced Algebra](http://dx.doi.org/10.1007/978-0-8176-4613-4)_. Birkhäuser, 2007. ISBN: 9780817645229.
 
-Milne, J. S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Fields and Galois Theory." (PDF)](http://www.jmilne.org/math/CourseNotes/FT.pdf) 2012.
+Milne, J. S. ["Fields and Galois Theory." (PDF)](http://www.jmilne.org/math/CourseNotes/FT.pdf) 2012.
 
 
 {{< tdclose >}}

@@ -69,7 +69,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Ostrowski's Theorem for Number Fields (No lecture notes but see ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ostrowski's Theorem for Number Fields (PDF)](http://www.math.uconn.edu/~kconrad/blurbs/gradnumthy/ostrowskinumbfield.pdf) by Keith Conrad)
+Ostrowski's Theorem for Number Fields (No lecture notes but see [Ostrowski's Theorem for Number Fields (PDF)](http://www.math.uconn.edu/~kconrad/blurbs/gradnumthy/ostrowskinumbfield.pdf) by Keith Conrad)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -12,7 +12,7 @@ This page focuses on the course _18.782 Introduction to Arithmetic Geometry_ as 
 
 Arithmetic geometry lies at the intersection of number theory and algebraic geometry. One of its key motivations is the analysis of Diophantine problems: finding all integer solutions to a given set of polynomial equations. Many of these problems are very old (hundreds, or even thousands of years), but the techniques available for solving them have evolved dramatically in recent years and are currently an area of active research.
 
-This is a first course in arithmetic geometry, and students are not required to enter with background in number theory or algebraic geometry. However, it is assumed that students have taken and mastered a full year of algebra (e.g., [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010/) and [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011/)).
+This is a first course in arithmetic geometry, and students are not required to enter with background in number theory or algebraic geometry. However, it is assumed that students have taken and mastered a full year of algebra (e.g., [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010) and [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011)).
 
 Highlights of the course include an introduction to p-adic numbers, the Hasse-Minkowski theorem for quadratic forms, the Riemann-Roch theorem for curves, and the Mordell-Weil theorem.
 
@@ -29,8 +29,8 @@ After completing 18.782 the student will have been introduced to some of the key
 
 Students interested in learning more about elliptic curves are encouraged to take _18.783 Elliptic Curves_ and may also want to consider graduate level course sequences such as:
 
-*   [_18.725 Algebraic Geometry I_](/courses/18-725-algebraic-geometry-fall-2003/) and [_18.726 Algebraic Geometry II_](/courses/18-726-algebraic-geometry-spring-2009/)
-*   _18.785 Analytic Number Theory_ and [_18.786 Topics in Algebraic Number Theory_](/courses/18-786-topics-in-algebraic-number-theory-spring-2010/)
+*   [_18.725 Algebraic Geometry I_](/courses/18-725-algebraic-geometry-fall-2003) and [_18.726 Algebraic Geometry II_](/courses/18-726-algebraic-geometry-spring-2009)
+*   _18.785 Analytic Number Theory_ and [_18.786 Topics in Algebraic Number Theory_](/courses/18-786-topics-in-algebraic-number-theory-spring-2010)
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -50,7 +50,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011/)
+[_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011)
 
 ### Requirements Satisfied
 
